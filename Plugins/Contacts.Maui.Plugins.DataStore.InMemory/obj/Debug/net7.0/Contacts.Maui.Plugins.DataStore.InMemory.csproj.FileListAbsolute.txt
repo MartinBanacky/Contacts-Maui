@@ -1,0 +1,17 @@
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.deps.json
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.CoreBusiness.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.UseCases.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.CoreBusiness.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.UseCases.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.AssemblyInfo.cs
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.csproj.CopyComplete
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\refint\Contacts.Maui.Plugins.DataStore.InMemory.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Maui.Plugins.DataStore.InMemory.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\obj\Debug\net7.0\ref\Contacts.Maui.Plugins.DataStore.InMemory.dll

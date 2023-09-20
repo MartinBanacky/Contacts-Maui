@@ -1,0 +1,15 @@
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\bin\Debug\net7.0\Contacts.UseCases.deps.json
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\bin\Debug\net7.0\Contacts.UseCases.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\bin\Debug\net7.0\Contacts.UseCases.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\bin\Debug\net7.0\Contacts.CoreBusiness.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\bin\Debug\net7.0\Contacts.CoreBusiness.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.csproj.AssemblyReference.cache
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.AssemblyInfoInputs.cache
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.AssemblyInfo.cs
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.csproj.CopyComplete
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\refint\Contacts.UseCases.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\Contacts.UseCases.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\obj\Debug\net7.0\ref\Contacts.UseCases.dll

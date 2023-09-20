@@ -159,3 +159,9 @@ maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
+Contacts.CoreBusiness.dll
+Contacts.UseCases.dll
+Contacts.CoreBusiness.aar
+Contacts.UseCases.aar
+Contacts.Maui.Plugins.DataStore.InMemory.dll
+Contacts.Maui.Plugins.DataStore.InMemory.aar

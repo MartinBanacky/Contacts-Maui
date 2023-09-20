@@ -1,4 +1,5 @@
 using Contacts.Maui.Models;
+using Contacts.Maui.Views.Controls;
 using Contact = Contacts.Maui.Models.Contact;
 
 namespace Contacts.Maui.Views;
@@ -15,17 +16,43 @@ public partial class EditContactPage : ContentPage
 		InitializeComponent();
 	}
 
-  //  private void btnCancel_Clicked(object sender, EventArgs e)
-  //  {
-		//Shell.Current.GoToAsync("..");
-  //  }
+	private void btnCancel_Clicked(object sender, EventArgs e)
+	{
+		Shell.Current.GoToAsync("..");
+	}
 
 	public string ContactId
 	{
 		set
 		{
 			contact = ContactRepository.GetContactById(int.Parse(value));
-			//lblName.Text = contact.name;
+			if (contact != null)
+			{
+				contactCtrl.Name = contact.Name;
+                contactCtrl.Email = contact.Email;
+				contactCtrl.Phone = contact.Phone;
+                contactCtrl.Address = contact.Address;
+
+            }
+			
 		}
 	}
+
+    private void btnUpdate_Clicked(object sender, EventArgs e)
+    {
+
+		contact.Name = contactCtrl.Name;
+		contact.Email = contactCtrl.Address;
+		contact.Phone = contactCtrl.Phone;
+		contact.Address = contactCtrl.Address;
+
+		ContactRepository.UpdateContact(contact.ContactId, contact);
+
+        Shell.Current.GoToAsync("..");
+    }
+
+    private void contactCtrl_OnError(object sender, string e)
+    {
+		DisplayAlert("Error", e, "OK");
+    }
 }

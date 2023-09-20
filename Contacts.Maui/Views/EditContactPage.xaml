@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:controls="clr-namespace:Contacts.Maui.Views.Controls"
              x:Class="Contacts.Maui.Views.EditContactPage"
-             Title="EditContact">
-    <!--<StackLayout>
-        <Label 
-            x:Name="lblName"
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+             Title="Edit Contact">
 
-        <Button x:Name="btnCancel" Clicked="btnCancel_Clicked" Text="Cancel"></Button>
-    </StackLayout>-->
-    
-    
-    <VerticalStackLayout>
-        <HorizontalStackLayout>
-            <Label Text="name" VerticalOptions="Center"></Label>
-            <Entry VerticalOptions="Center"></Entry>
-        </HorizontalStackLayout>
-        <HorizontalStackLayout>
-            <Label Text="email" VerticalOptions="Center"></Label>
-            <Entry VerticalOptions="Center"></Entry>
-        </HorizontalStackLayout>
-        <HorizontalStackLayout>
-            <Label Text="phone" VerticalOptions="Center"></Label>
-            <Entry VerticalOptions="Center"></Entry>
-        </HorizontalStackLayout>
-        <HorizontalStackLayout>
-            <Label Text="address" VerticalOptions="Center"></Label>
-            <Entry VerticalOptions="Center"></Entry>
-        </HorizontalStackLayout>
-    </VerticalStackLayout>
-    
-    
+    <controls:ContactControl x:Name="contactCtrl"
+                             OnSave="btnUpdate_Clicked"
+                             OnCancel="btnCancel_Clicked"
+                             OnError="contactCtrl_OnError"
+                             ></controls:ContactControl>
+
+
 </ContentPage>

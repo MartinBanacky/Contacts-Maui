@@ -1,0 +1,17 @@
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.deps.json
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.CoreBusiness.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.UseCases.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.CoreBusiness.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.csproj.AssemblyReference.cache
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.AssemblyInfoInputs.cache
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.AssemblyInfo.cs
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.csproj.CoreCompileInputs.cache
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.csproj.CopyComplete
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\refint\Contacts.Plugins.DataStore.SQLLite.dll
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLLite.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Plugins.DataStore.SQLLite\obj\Debug\net7.0-windows10.0.19041.0\ref\Contacts.Plugins.DataStore.SQLLite.dll

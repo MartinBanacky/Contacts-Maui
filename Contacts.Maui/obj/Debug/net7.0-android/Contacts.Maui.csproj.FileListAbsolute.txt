@@ -996,3 +996,13 @@ C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\lp\164
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\lp\165\jl\files.cache
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-android\Contacts.Plugins.DataStore.SQLLite.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-android\Contacts.Plugins.DataStore.SQLLite.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-android\Contacts.Plugins.DataStore.SQLLite.xml
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.Plugins.DataStore.SQLLite.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.Plugins.DataStore.SQLLite.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLite-net.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.core.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll

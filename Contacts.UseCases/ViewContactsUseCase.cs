@@ -15,7 +15,7 @@ namespace Contacts.UseCases
 
         public async Task<List<Contact>> ExecuteAsync(string filterText)
         {
-            return await this.contactRepository.GetContactAsync(filterText);
+            return await this.contactRepository.GetContactsAsync(filterText);
         }
     }
 }

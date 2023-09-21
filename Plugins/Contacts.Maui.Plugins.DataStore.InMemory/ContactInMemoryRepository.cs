@@ -39,7 +39,7 @@ namespace Contacts.Maui.Plugins.DataStore.InMemory
 
         }
 
-        public Task<List<Contact>> GetContactAsync(string filterText)
+        public Task<List<Contact>> GetContactsAsync(string filterText)
         {
             if (string.IsNullOrWhiteSpace(filterText))
             {

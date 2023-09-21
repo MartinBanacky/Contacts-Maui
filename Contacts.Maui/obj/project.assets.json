@@ -31,6 +31,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -1957,6 +1973,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -1968,6 +1988,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -1982,6 +2004,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -2022,6 +2046,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -3948,6 +3988,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -3959,6 +4003,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -3973,6 +4019,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -4013,6 +4061,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -5939,6 +6003,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -5950,6 +6018,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -5964,6 +6034,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -6004,6 +6076,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -7930,6 +8018,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -7941,6 +8033,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -7955,6 +8049,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -7995,6 +8091,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -9921,6 +10033,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -9932,6 +10048,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -9946,6 +10064,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -9986,6 +10106,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -11912,6 +12048,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -11923,6 +12063,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -11937,6 +12079,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -11977,6 +12121,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -13903,6 +14063,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -13914,6 +14078,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -13928,6 +14094,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -13968,6 +14136,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "GoogleGson/2.9.1.1": {
         "type": "package",
         "compile": {
@@ -15894,6 +16078,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -15905,6 +16093,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -15919,6 +16109,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -15959,6 +16151,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16144,6 +16352,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -16155,6 +16367,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -16169,6 +16383,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -16209,6 +16425,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16394,6 +16626,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -16405,6 +16641,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -16419,6 +16657,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -16459,6 +16699,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16644,6 +16900,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -16655,6 +16915,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -16669,6 +16931,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -16709,6 +16973,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16894,6 +17174,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -16905,6 +17189,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -16919,6 +17205,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -16959,6 +17247,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17144,6 +17448,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -17155,6 +17463,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -17169,6 +17479,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -17209,6 +17521,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17394,6 +17722,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -17405,6 +17737,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -17419,6 +17753,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -17459,6 +17795,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17644,6 +17996,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -17655,6 +18011,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -17669,6 +18027,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -17709,6 +18069,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17894,6 +18270,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -17905,6 +18285,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -17919,6 +18301,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -17959,6 +18343,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18144,6 +18544,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -18155,6 +18559,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -18169,6 +18575,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -18209,6 +18617,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18394,6 +18818,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -18405,6 +18833,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -18419,6 +18849,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -18459,6 +18891,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18644,6 +19092,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -18655,6 +19107,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -18669,6 +19123,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -18709,6 +19165,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18894,6 +19366,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -18905,6 +19381,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -18919,6 +19397,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -18959,6 +19439,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19144,6 +19640,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -19155,6 +19655,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -19169,6 +19671,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -19209,6 +19713,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19394,6 +19914,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -19405,6 +19929,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -19419,6 +19945,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -19459,6 +19987,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19644,6 +20188,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -19655,6 +20203,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -19669,6 +20219,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -19709,6 +20261,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19894,6 +20462,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -19905,6 +20477,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -19919,6 +20493,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -19960,6 +20536,22 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -20308,6 +20900,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -20319,6 +20915,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -20333,6 +20931,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -20376,6 +20976,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20688,6 +21304,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -20699,6 +21319,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -20713,6 +21335,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -20756,6 +21380,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -21068,6 +21708,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -21079,6 +21723,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -21093,6 +21739,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -21136,6 +21784,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -21448,6 +22112,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -21459,6 +22127,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -21473,6 +22143,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -21516,6 +22188,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -21828,6 +22516,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -21839,6 +22531,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -21853,6 +22547,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -21896,6 +22592,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -22208,6 +22920,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -22219,6 +22935,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -22233,6 +22951,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -22276,6 +22996,22 @@
           }
         }
       },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -22588,6 +23324,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -22599,6 +23339,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -22613,6 +23355,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -22654,6 +23398,22 @@
           "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -22974,6 +23734,10 @@
       "Contacts.CoreBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "compile": {
           "bin/placeholder/Contacts.CoreBusiness.dll": {}
         },
@@ -22985,6 +23749,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Contacts.UseCases": "1.0.0"
         },
@@ -22999,6 +23765,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0"
         },
         "compile": {
@@ -23064,6 +23832,37 @@
         "lib/net7.0-windows10.0.19041/CommunityToolkit.Maui.Core.xml",
         "lib/net7.0/CommunityToolkit.Maui.Core.dll",
         "lib/net7.0/CommunityToolkit.Maui.Core.xml"
+      ]
+    },
+    "CommunityToolkit.Mvvm/8.2.1": {
+      "sha512": "I24ofWVEdplxYjUez9/bljv/qb8r8Ccj6cvYXHexNBegLaD3iDy3QrzAAOYVMmfGWIXxlU1ZtECQNfU07+6hXQ==",
+      "type": "package",
+      "path": "communitytoolkit.mvvm/8.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "analyzers/dotnet/roslyn4.0/cs/CommunityToolkit.Mvvm.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.0/cs/CommunityToolkit.Mvvm.SourceGenerators.dll",
+        "analyzers/dotnet/roslyn4.3/cs/CommunityToolkit.Mvvm.CodeFixers.dll",
+        "analyzers/dotnet/roslyn4.3/cs/CommunityToolkit.Mvvm.SourceGenerators.dll",
+        "build/netstandard2.0/CommunityToolkit.Mvvm.targets",
+        "build/netstandard2.1/CommunityToolkit.Mvvm.targets",
+        "buildTransitive/netstandard2.0/CommunityToolkit.Mvvm.targets",
+        "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets",
+        "communitytoolkit.mvvm.8.2.1.nupkg.sha512",
+        "communitytoolkit.mvvm.nuspec",
+        "lib/net6.0/CommunityToolkit.Mvvm.dll",
+        "lib/net6.0/CommunityToolkit.Mvvm.pdb",
+        "lib/net6.0/CommunityToolkit.Mvvm.xml",
+        "lib/netstandard2.0/CommunityToolkit.Mvvm.dll",
+        "lib/netstandard2.0/CommunityToolkit.Mvvm.pdb",
+        "lib/netstandard2.0/CommunityToolkit.Mvvm.xml",
+        "lib/netstandard2.1/CommunityToolkit.Mvvm.dll",
+        "lib/netstandard2.1/CommunityToolkit.Mvvm.pdb",
+        "lib/netstandard2.1/CommunityToolkit.Mvvm.xml"
       ]
     },
     "GoogleGson/2.9.1.1": {
@@ -26345,6 +27144,7 @@
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
       "CommunityToolkit.Maui >= 5.3.0",
+      "CommunityToolkit.Mvvm >= 8.2.1",
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
@@ -26368,6 +27168,7 @@
     ],
     "net7.0-ios16.1": [
       "CommunityToolkit.Maui >= 5.3.0",
+      "CommunityToolkit.Mvvm >= 8.2.1",
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
@@ -26380,6 +27181,7 @@
     ],
     "net7.0-maccatalyst16.1": [
       "CommunityToolkit.Maui >= 5.3.0",
+      "CommunityToolkit.Mvvm >= 8.2.1",
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
@@ -26392,6 +27194,7 @@
     ],
     "net7.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 5.3.0",
+      "CommunityToolkit.Mvvm >= 8.2.1",
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
@@ -26509,6 +27312,10 @@
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[5.3.0, )"
+          },
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.2.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -26632,6 +27439,10 @@
             "target": "Package",
             "version": "[5.3.0, )"
           },
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.2.1, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -26698,6 +27509,10 @@
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[5.3.0, )"
+          },
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.2.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -26766,6 +27581,10 @@
           "CommunityToolkit.Maui": {
             "target": "Package",
             "version": "[5.3.0, )"
+          },
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.2.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",

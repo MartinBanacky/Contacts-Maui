@@ -157,3 +157,7 @@ GoogleGson.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Contacts.CoreBusiness.dll
 Contacts.CoreBusiness.aar
+CommunityToolkit.Maui.Core.dll
+CommunityToolkit.Maui.dll
+CommunityToolkit.Maui.Core.aar
+CommunityToolkit.Maui.aar

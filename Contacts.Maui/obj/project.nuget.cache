@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sHs4sNcLFZDZKaIY/qA1+FCS7rFf3KykA4IFxE++liviYWIzHdGcTdLj5i07iLz1FYsZcR2vp6BMeoHDVVNbQQ==",
+  "dgSpecHash": "zCHAJqNaWWrUSl49uFlXy8LSvRfx5abnV3PPgcshUsCYVIUkSJJ3c6yY1FrbLWi3X88gKGFn/U+tHJCuoJjN3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Contacts.Maui\\Contacts.Maui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razer\\.nuget\\packages\\communitytoolkit.maui\\5.3.0\\communitytoolkit.maui.5.3.0.nupkg.sha512",
     "C:\\Users\\razer\\.nuget\\packages\\communitytoolkit.maui.core\\5.3.0\\communitytoolkit.maui.core.5.3.0.nupkg.sha512",
+    "C:\\Users\\razer\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\razer\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\razer\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\razer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

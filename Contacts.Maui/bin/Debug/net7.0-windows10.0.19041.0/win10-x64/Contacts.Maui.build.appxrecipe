@@ -34,6 +34,15 @@
     <AppxPackagedFile Include="C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Maui.dll">
       <PackagePath>Contacts.Maui.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\PRACA\Contacts.Maui\Contacts.CoreBusiness\bin\Debug\net7.0-windows10.0.19041.0\Contacts.CoreBusiness.dll">
+      <PackagePath>Contacts.CoreBusiness.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\PRACA\Contacts.Maui\Contacts.UseCases\bin\Debug\net7.0-windows10.0.19041.0\Contacts.UseCases.dll">
+      <PackagePath>Contacts.UseCases.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\PRACA\Contacts.Maui\Plugins\Contacts.Maui.Plugins.DataStore.InMemory\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Maui.Plugins.DataStore.InMemory.dll">
+      <PackagePath>Contacts.Maui.Plugins.DataStore.InMemory.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Contacts.Maui.exe</PackagePath>
     </AppxPackagedFile>
@@ -607,6 +616,15 @@
     <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\communitytoolkit.maui\5.3.0\lib\net7.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\communitytoolkit.maui.core\5.3.0\lib\net7.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\communitytoolkit.mvvm\8.2.1\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -684,6 +702,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\system.speech\7.0.0\runtimes\win\lib\net7.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\razer\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>

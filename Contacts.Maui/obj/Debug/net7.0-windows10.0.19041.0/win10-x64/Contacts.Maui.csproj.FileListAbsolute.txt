@@ -322,3 +322,13 @@ C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-windows10.0.19
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.CoreBusiness.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Maui.Plugins.DataStore.InMemory.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.UseCases.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.CoreBusiness.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.UseCases.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Maui.Plugins.DataStore.InMemory.pdb

@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "Contacts.UseCases/1.0.0": {
         "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1",
           "Contacts.CoreBusiness": "1.0.0",
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
@@ -51,6 +53,33 @@
           "Microsoft.Maui.Essentials.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "7.0.90.2"
+          }
+        }
+      },
+      "CommunityToolkit.Maui/5.3.0": {
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "5.3.0"
+        },
+        "runtime": {
+          "lib/net7.0/CommunityToolkit.Maui.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/5.3.0": {
+        "runtime": {
+          "lib/net7.0/CommunityToolkit.Maui.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CommunityToolkit.Mvvm/8.2.1": {
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.1.1"
           }
         }
       },
@@ -147,6 +176,10 @@
         }
       },
       "Contacts.CoreBusiness/1.0.0": {
+        "dependencies": {
+          "CommunityToolkit.Maui": "5.3.0",
+          "CommunityToolkit.Mvvm": "8.2.1"
+        },
         "runtime": {
           "Contacts.CoreBusiness.dll": {}
         }
@@ -173,6 +206,27 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "CommunityToolkit.Maui/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vzZzhVp7o+ipkW/zT6ZXst2mJemPrzGsO5Dbw3NoMpRhn0LapS0tmmegGAuv6AlcUM8/JROr7rF2J+t/LgLMqQ==",
+      "path": "communitytoolkit.maui/5.3.0",
+      "hashPath": "communitytoolkit.maui.5.3.0.nupkg.sha512"
+    },
+    "CommunityToolkit.Maui.Core/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fy7jBKU3uxWFXXUeLZ3NnZOQgxZ6CdiGJNXLEUnt8T5Bsnp2/Vlwl6TAGf3q4B1ToJUNLJOMoGxaRP25ktevSQ==",
+      "path": "communitytoolkit.maui.core/5.3.0",
+      "hashPath": "communitytoolkit.maui.core.5.3.0.nupkg.sha512"
+    },
+    "CommunityToolkit.Mvvm/8.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I24ofWVEdplxYjUez9/bljv/qb8r8Ccj6cvYXHexNBegLaD3iDy3QrzAAOYVMmfGWIXxlU1ZtECQNfU07+6hXQ==",
+      "path": "communitytoolkit.mvvm/8.2.1",
+      "hashPath": "communitytoolkit.mvvm.8.2.1.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/7.0.0": {
       "type": "package",

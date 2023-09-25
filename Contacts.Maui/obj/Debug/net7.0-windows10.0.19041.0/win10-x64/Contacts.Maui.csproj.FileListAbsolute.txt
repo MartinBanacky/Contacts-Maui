@@ -217,7 +217,6 @@ C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1023.36312.dll
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -332,3 +331,13 @@ C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.CoreBusiness.pdb
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.UseCases.pdb
 C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Maui.Plugins.DataStore.InMemory.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1123.42427.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Plugins.DataStore.SQLLite.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Plugins.DataStore.SQLLite.pdb
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Plugins.DataStore.WebApi.dll
+C:\Users\razer\PRACA\Contacts.Maui\Contacts.Maui\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Contacts.Plugins.DataStore.WebApi.pdb

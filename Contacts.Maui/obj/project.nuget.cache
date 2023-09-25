@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YFVEPJxqJvIjKqnncg62GLWa3yq5GwY1AUj86p8E/3kUCNSGuManP/oMXuZkyhZkRFdXiloZlsfEoRkUYNLaNw==",
+  "dgSpecHash": "akEiTkCbvdyk/6FiE99oqP85Fv4F4VRMygiSg9u2a8o4Xq/xvFBSiy5ErmByFYtdeApsvdswHB+D7z6iyy1EnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Contacts.Maui\\Contacts.Maui.csproj",
   "expectedPackageFiles": [
@@ -116,9 +116,9 @@
     "C:\\Users\\razer\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.6.4.1\\xamarin.kotlinx.coroutines.android.1.6.4.1.nupkg.sha512",
     "C:\\Users\\razer\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.4.1\\xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
     "C:\\Users\\razer\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512",
-    "C:\\Users\\razer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.win-x64.7.0.10.nupkg.sha512",
-    "C:\\Users\\razer\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.10.nupkg.sha512",
-    "C:\\Users\\razer\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.10\\microsoft.netcore.app.runtime.win-x64.7.0.10.nupkg.sha512"
+    "C:\\Users\\razer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.11\\microsoft.aspnetcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\razer\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\razer\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.11\\microsoft.netcore.app.runtime.win-x64.7.0.11.nupkg.sha512"
   ],
   "logs": []
 }

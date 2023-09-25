@@ -2121,6 +2121,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -4255,6 +4269,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -6393,6 +6421,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -8527,6 +8569,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -10665,6 +10721,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -12799,6 +12869,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -14937,6 +15021,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -17073,6 +17171,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -17431,6 +17543,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -17793,6 +17919,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -18151,6 +18291,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -18513,6 +18667,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -18871,6 +19039,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -19233,6 +19415,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -19593,6 +19789,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -19951,6 +20161,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -20399,6 +20623,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -20764,6 +21002,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -21133,6 +21385,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -21498,6 +21764,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -21867,6 +22147,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -22229,6 +22523,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -22598,6 +22906,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -22963,6 +23285,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -23575,6 +23911,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -24070,6 +24420,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -24569,6 +24933,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -25064,6 +25442,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -25563,6 +25955,20 @@
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
         }
       },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        }
+      },
       "Contacts.UseCases/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -26055,6 +26461,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -26552,6 +26972,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -27055,6 +27489,20 @@
         },
         "runtime": {
           "bin/placeholder/Contacts.Plugins.DataStore.SQLLite.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0",
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.WebApi.dll": {}
         }
       },
       "Contacts.UseCases/1.0.0": {
@@ -30657,6 +31105,11 @@
       "path": "../Plugins/Contacts.Plugins.DataStore.SQLLite/Contacts.Plugins.DataStore.SQLLite.csproj",
       "msbuildProject": "../Plugins/Contacts.Plugins.DataStore.SQLLite/Contacts.Plugins.DataStore.SQLLite.csproj"
     },
+    "Contacts.Plugins.DataStore.WebApi/1.0.0": {
+      "type": "project",
+      "path": "../Plugins/Contacts.Plugins.DataStore.WebApi/Contacts.Plugins.DataStore.WebApi.csproj",
+      "msbuildProject": "../Plugins/Contacts.Plugins.DataStore.WebApi/Contacts.Plugins.DataStore.WebApi.csproj"
+    },
     "Contacts.UseCases/1.0.0": {
       "type": "project",
       "path": "../Contacts.UseCases/Contacts.UseCases.csproj",
@@ -30670,6 +31123,7 @@
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.Plugins.DataStore.SQLLite >= 1.0.0",
+      "Contacts.Plugins.DataStore.WebApi >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
@@ -30695,6 +31149,7 @@
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.Plugins.DataStore.SQLLite >= 1.0.0",
+      "Contacts.Plugins.DataStore.WebApi >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
@@ -30709,6 +31164,7 @@
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.Plugins.DataStore.SQLLite >= 1.0.0",
+      "Contacts.Plugins.DataStore.WebApi >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
@@ -30723,6 +31179,7 @@
       "Contacts.CoreBusiness >= 1.0.0",
       "Contacts.Maui.Plugins.DataStore.InMemory >= 1.0.0",
       "Contacts.Plugins.DataStore.SQLLite >= 1.0.0",
+      "Contacts.Plugins.DataStore.WebApi >= 1.0.0",
       "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
@@ -30782,6 +31239,9 @@
             },
             "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj": {
               "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj"
+            },
+            "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj": {
+              "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj"
             }
           }
         },
@@ -30799,6 +31259,9 @@
             },
             "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj": {
               "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj"
+            },
+            "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj": {
+              "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj"
             }
           }
         },
@@ -30816,6 +31279,9 @@
             },
             "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj": {
               "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj"
+            },
+            "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj": {
+              "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj"
             }
           }
         },
@@ -30833,6 +31299,9 @@
             },
             "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj": {
               "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.SQLLite\\Contacts.Plugins.DataStore.SQLLite.csproj"
+            },
+            "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj": {
+              "projectPath": "C:\\Users\\razer\\PRACA\\Contacts.Maui\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj"
             }
           }
         }
@@ -30968,7 +31437,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -31039,7 +31508,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -31111,7 +31580,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
@@ -31178,11 +31647,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[7.0.10, 7.0.10]"
+            "version": "[7.0.11, 7.0.11]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[7.0.10, 7.0.10]"
+            "version": "[7.0.11, 7.0.11]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -31190,7 +31659,7 @@
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[7.0.10, 7.0.10]"
+            "version": "[7.0.11, 7.0.11]"
           }
         ],
         "frameworkReferences": {
@@ -31210,7 +31679,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

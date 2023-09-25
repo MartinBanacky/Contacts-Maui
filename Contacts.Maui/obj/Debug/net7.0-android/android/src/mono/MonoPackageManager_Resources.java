@@ -111,6 +111,7 @@ public class MonoPackageManager_Resources {
 		"Contacts.CoreBusiness.dll",
 		"Contacts.Maui.Plugins.DataStore.InMemory.dll",
 		"Contacts.Plugins.DataStore.SQLLite.dll",
+		"Contacts.Plugins.DataStore.WebApi.dll",
 		"Contacts.UseCases.dll",
 	};
 	public static String[] Dependencies = new String[]{

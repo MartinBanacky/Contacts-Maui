@@ -13,7 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{85FB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts.Maui.Plugins.DataStore.InMemory", "Plugins\Contacts.Maui.Plugins.DataStore.InMemory\Contacts.Maui.Plugins.DataStore.InMemory.csproj", "{E6159037-F432-4669-BF8D-27E738A1CEEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.SQLLite", "Plugins\Contacts.Plugins.DataStore.SQLLite\Contacts.Plugins.DataStore.SQLLite.csproj", "{5191FBB4-99D9-4BE1-89D9-1514A4B51623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts.Plugins.DataStore.SQLLite", "Plugins\Contacts.Plugins.DataStore.SQLLite\Contacts.Plugins.DataStore.SQLLite.csproj", "{5191FBB4-99D9-4BE1-89D9-1514A4B51623}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts.WebApi", "Contacts.WebApi\Contacts.WebApi.csproj", "{0F274EB4-438B-4EBB-A02C-A16AAC9D6EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.WebApi", "Plugins\Contacts.Plugins.DataStore.WebApi\Contacts.Plugins.DataStore.WebApi.csproj", "{9D6E4AC7-B612-437E-B807-55A95EE00CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +47,14 @@ Global
 		{5191FBB4-99D9-4BE1-89D9-1514A4B51623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5191FBB4-99D9-4BE1-89D9-1514A4B51623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5191FBB4-99D9-4BE1-89D9-1514A4B51623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F274EB4-438B-4EBB-A02C-A16AAC9D6EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F274EB4-438B-4EBB-A02C-A16AAC9D6EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F274EB4-438B-4EBB-A02C-A16AAC9D6EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F274EB4-438B-4EBB-A02C-A16AAC9D6EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6E4AC7-B612-437E-B807-55A95EE00CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6E4AC7-B612-437E-B807-55A95EE00CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6E4AC7-B612-437E-B807-55A95EE00CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6E4AC7-B612-437E-B807-55A95EE00CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +62,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E6159037-F432-4669-BF8D-27E738A1CEEC} = {85FB3FCB-E583-4F20-8453-DD13EBCF4DC6}
 		{5191FBB4-99D9-4BE1-89D9-1514A4B51623} = {85FB3FCB-E583-4F20-8453-DD13EBCF4DC6}
+		{9D6E4AC7-B612-437E-B807-55A95EE00CAC} = {85FB3FCB-E583-4F20-8453-DD13EBCF4DC6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98CD3792-C400-4A9F-B571-A1720ECB5553}

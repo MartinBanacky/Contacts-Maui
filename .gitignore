@@ -1,0 +1,10 @@
+bin/
+obj/
+packages/
+*.user
+.vscode/
+.vs/
+.idea/
+*.log
+*.pdb
+DerivedData/
